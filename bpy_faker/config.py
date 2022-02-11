@@ -1,0 +1,1 @@
+FAKER_DATA_PICKLE_PATH = "C:\\Users\divya\Documents\\tsai\epai_capstone\\faker_data_dump.pickle"
