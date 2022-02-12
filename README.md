@@ -21,7 +21,7 @@ for the following providers:
 1. Create a dump of fake data relating to our providers. You should get a file named *faker_data_dump.pickle*.<br>
 ``python faker_generator.py``
 
-2. Go to [setup.py](bpy_faker/setup.py) and update the ``FAKER_DATA_PICKLE_PATH`` variable with the absolute path of
+2. Go to [config.py](bpy_faker/config.py) and update the ``FAKER_DATA_PICKLE_PATH`` variable with the absolute path of
  *faker_data_dump.pickle* generated in the previous step.
  
 3. Create a .zip file by compressing the bpy_faker directory.
